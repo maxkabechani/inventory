@@ -30,6 +30,7 @@ Follow these steps to set up the project on your local machine:
 2. **Install XAMPP Server**
    - Download and install XAMPP from the [official website](https://www.apachefriends.org/).
    - Start the Apache and MySQL services in XAMPP.
+   - Create inventory database.
 
    #### Install XAMPP via Install XAMPP
 
